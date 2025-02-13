@@ -1,0 +1,9 @@
+Version 1.0.0
+- A new version of TIPs: Find verse widget plugin
+Version 1.1.1
+- A new version of TIPs: Find verse widget plugin
+Version 1.2.2
+- Added a customization option for TIPs Configuration, allowing users to modify TIPs Search Widget Configuration form backed
+- Updated plugin instructions in the documentation to guide users through the new customization settings.
+Version 1.2.3
+Replaced the API of demo with the live site, now all the data comes from the live site.
